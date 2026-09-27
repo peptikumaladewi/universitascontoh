@@ -1,4 +1,4 @@
-# Website Universitas Muhammadiyah Bengkulu
+# Website Universitas 
 
 Website data mahasiswa per program studi bertema Web Semantik, dibuat dengan PHP + MySQL.
 
